@@ -17,7 +17,7 @@ export class Canvas {
 
     constructor(canvasElem: HTMLCanvasElement, mode: Modes = Modes.static) {
         this.mode = mode;
-        this.ctx = canvasElem.getContext('2D');
+        this.ctx = canvasElem.getContext('2d');
     }
     
     // set static or dynamic, so no need to import modes
