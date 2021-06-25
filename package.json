@@ -1,0 +1,22 @@
+{
+  "name": "bubbles-visuals",
+  "version": "1.0.0",
+  "description": "animated bubbles library (not just the water ones!)",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bachittle/bubbles-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bachittle/bubbles-js/issues"
+  },
+  "homepage": "https://github.com/bachittle/bubbles-js#readme"
+}
